@@ -30,6 +30,11 @@ printf("%d\n", *(*(a+1)+2));
 
 printf("%u\n", a[0]+1);
 printf("%u\n", a+1);
+    
+    
+
+printf("%d",printf("hiCHUM")*printf("bye"));
+printf("%d",printf("hiCHUM")*printf("bye")*printf(""));
 
     
     
